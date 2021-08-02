@@ -68,7 +68,7 @@ return this.count;
   console.log(newMenue.push("welcom")) //4 
   console.log(newMenue.push("amaal")) // overflow
  console.log(newMenue)
- console.log( newMenue.pop()) // return value alaa 
+ console.log( newMenue.pop()) // return value welcom
  console.log( newMenue.pop()) //samah
   console.log(newMenue)
 console.log(newMenue.size())
